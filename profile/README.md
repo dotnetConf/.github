@@ -1,6 +1,6 @@
 # .NET Conf event content and branding
 
-.NET Conf is the first and largest online series of events for software developers in the .NET ecosystem.  The events are planned and run in a collaboration between Microsoft, the .NET Foundation, and the .NET Community. 
+[.NET Conf](https://dotnetconf.net) is the first and largest online series of events for software developers in the .NET ecosystem.  The events are planned and run in a collaboration between Microsoft, the .NET Foundation, and the .NET Community. 
 
 This GitHub organization is where we store the archive of slides, branding and other content that has been shared during .NET Conf online events.
 
