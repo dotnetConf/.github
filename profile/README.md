@@ -6,6 +6,8 @@ This GitHub organization is where we store the archive of slides, branding and o
 
 | Event | Date |
 | --- | --- |
+| [.NET Conf 2025](https://github.com/dotnetConf/2025) | November 11-13, 2025 |
+| [.NET Conf Focus on Modernization](https://github.com/dotnetConf/Modernization-25) | April 22,23 2025 |
 | [.NET Conf 2024](https://github.com/dotnetConf/2024) | November 12-14, 2024 |
 | [.NET Conf Focus on AI](https://github.com/dotnetConf/FocusOnAI_24) | August 20, 2024 |
 | [.NET Aspire Developer's Day](https://github.com/dotnetConf/AspireDevDay-24) | July 23, 2024 |
